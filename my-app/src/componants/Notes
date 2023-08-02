@@ -1,0 +1,4 @@
+//  "\" this not applicable "/" is needed
+
+// everytime u do an import u can import css like import "./index.css" but compoent must be imported like import app from "./app"
+
